@@ -4,3 +4,4 @@ Another other line
 to be revomed
 
 Hello, Git!
+Hello, Git rebase!
